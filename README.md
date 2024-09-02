@@ -56,7 +56,7 @@ Before compiling and running `procImage`, ensure the following dependencies are 
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/procImage.git
+git clone https://github.com/jpereiratrindade/procImage.git
 cd procImage
 ```
 
