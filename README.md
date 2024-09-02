@@ -106,4 +106,4 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 ## Contact
 
-For questions or suggestions, please contact [Your Name](mailto:jpereiratrindade@gmail.com).
+For questions or suggestions, please contact [José Pedro Trindade](mailto:jpereiratrindade@gmail.com).
